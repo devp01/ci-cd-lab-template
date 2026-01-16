@@ -9,6 +9,18 @@
   },
   "devDependencies": {
     "jest": "^29.0.0"
-  }
+  },
+  "main": "main.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonasiju/ci-cd-lab-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sonasiju/ci-cd-lab-template/issues"
+  },
+  "homepage": "https://github.com/Sonasiju/ci-cd-lab-template#readme",
+  "description": ""
 }
-
